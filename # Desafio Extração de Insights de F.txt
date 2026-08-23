@@ -1,0 +1,47 @@
+# Desafio: Extração de Insights de Feedbacks Bancários com IA
+
+## 🎯 Prompt Final
+Você é um analista de dados bancários especializado em experiência do cliente.  
+Seu objetivo é analisar feedbacks de clientes sobre serviços bancários digitais (aplicativo, Pix, cartão e atendimento) e gerar insights práticos para melhorar a experiência do usuário.  
+
+**Contexto:**  
+- Os dados disponíveis são comentários e avaliações coletados em pesquisas de satisfação.  
+- O foco é identificar padrões de satisfação e insatisfação, pontos fortes e oportunidades de melhoria.  
+
+**Instruções de análise:**  
+1. Classifique os feedbacks em categorias (aplicativo, Pix, cartão, atendimento).  
+2. Identifique sentimentos predominantes (positivo, neutro, negativo).  
+3. Extraia os principais pontos recorrentes mencionados pelos clientes.  
+4. Sugira recomendações práticas para cada categoria.  
+
+**Formato da resposta:**  
+- Um resumo executivo com os principais achados.  
+- Uma tabela com categorias, sentimentos predominantes e exemplos de feedbacks.  
+- Uma lista de prioridades de ação para o banco.  
+
+**Restrições:**  
+- Não invente dados que não estejam nos feedbacks.  
+- Não exponha informações pessoais dos clientes.  
+- Use linguagem simples e objetiva, adequada para gestores de negócios.  
+
+---
+
+## 📊 Exemplo de Resposta da IA
+
+### 🔎 Resumo Executivo
+A análise dos feedbacks bancários mostra que os clientes valorizam a praticidade do aplicativo e a rapidez do Pix, mas apontam problemas recorrentes com o atendimento humano e falhas no uso do cartão. O sentimento geral é **positivo em relação às soluções digitais**, porém **negativo em relação ao suporte e comunicação**.
+
+### 📋 Tabela de Categorias e Sentimentos
+
+| Categoria   | Sentimento predominante | Exemplos de feedbacks                          |
+|-------------|-------------------------|-----------------------------------------------|
+| Aplicativo  | Positivo                | "Interface simples", "Fácil de usar"          |
+| Pix         | Positivo                | "Transferência instantânea", "Muito prático"  |
+| Cartão      | Neutro/Negativo         | "Demora na entrega", "Problemas na ativação"  |
+| Atendimento | Negativo                | "Demora no chat", "Atendente não resolveu"    |
+
+### ✅ Prioridades de Ação
+1. Melhorar atendimento humano: reduzir tempo de espera e treinar equipe para resolver problemas com mais eficiência.  
+2. Aprimorar processo do cartão: agilizar entrega e simplificar ativação.  
+3. Manter e expandir pontos fortes: continuar investindo em melhorias do aplicativo e estabilidade do Pix.  
+4. Comunicação clara: criar mensagens proativas para informar clientes sobre prazos e soluções.  
